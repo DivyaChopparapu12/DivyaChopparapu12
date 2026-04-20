@@ -54,3 +54,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/divya-chopparapu/)
 [![RPubs](https://img.shields.io/badge/RPubs-Portfolio-blue)](https://rpubs.com/Divya_12)
 [![ShinyApp](https://img.shields.io/badge/Shiny-App-blue)](https://divya-12.shinyapps.io/ShinyApp/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/DivyaChopparapu12)
