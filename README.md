@@ -1,6 +1,7 @@
 # Hi, I'm Divya 👋
 
 **Business Analytics Graduate Student | Graduated in Dec 2025**
+
  Data Analyst | Microsoft Power BI PL-300 Certified | Business Analytics Certified from Harvard Business School Online 
 
 📍 New Haven, CT | Open to volunteer/ internship/ contract/ part-time/ full-time Data Analyst roles
@@ -38,3 +39,4 @@
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/divya-chopparapu/)
 [![RPubs](https://img.shields.io/badge/RPubs-Portfolio-blue)](https://rpubs.com/Divya_12)
+[![ShinyApp](https://img.shields.io/badge/Shiny-App-blue)](https://divya-12.shinyapps.io/ShinyApp/)
