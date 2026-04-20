@@ -15,6 +15,20 @@
 
 ---
 
+## 💼 Experience
+
+**Data Analyst Intern** | Prema's Permaculture and Composting, CA *(Jul 2025 – Aug 2025)*
+- Automated multi-source data pipelines using JotForm, Google Sheets, Zapier, and Coupler.io
+- Designed Power BI dashboards with DAX modeling to monitor sustainability KPIs in real time
+- Built a CO₂ Emissions Calculator for environmental impact reporting
+
+**Quality Assurance & Data Analyst Intern** | Downtown Evening Soup Kitchen, CT *(May 2025 – Jul 2025)*
+- Automated Excel reports using VBA macros, reducing manual reporting time by 50%
+- Built Power BI and Looker Studio dashboards to track service trends and KPIs
+- Cleaned and validated multi-source datasets, improving reporting accuracy across systems
+
+---
+
 ## 📂 Projects
 - 🚗 Automobile Price Prediction — R, Power BI, Neural Network (~90% accuracy)
 - 💳 Corpay Credit Risk Analysis — SQL Server, R, Power BI, Machine Learning
