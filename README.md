@@ -9,7 +9,7 @@
 ---
 
 ## 🛠️ Skills
-**Tools & Languages:** R, SQL Server, Python, Power BI, Excel (VBA), Looker Studio, DAX
+**Tools & Languages:** R, SQL Server, Python, Power BI, Excel (VBA), Looker Studio
 
 **Capabilities:** Data Cleaning, ETL Pipelines, Predictive Modeling, KPI Tracking, Dashboard Design
 
